@@ -1,2 +1,2 @@
-# Interpolation_Approximation
+# Approximation
 Least squares and Chebyshev approximation
